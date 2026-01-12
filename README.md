@@ -1,8 +1,6 @@
-# AETHERIA_v2: Brutalist NFT Protocol 💜
+# AETHERIA_v2: Brutalist NFT Protocol 
 
 A high-end, **Industrial Brutalist** NFT marketplace built with the Next.js 14 App Router and Solidity. Optimized for institutional-grade digital asset tokenization with a stark, premium minimal aesthetic.
-
-![Aetheria Hero Display](/assets/img/hero_nft_brutalist_purple_1768229647485.png)
 
 ## 📐 Design Philosophy: Brutalism v2.0
 - **Stark Contrast**: Deep black, absolute white, and sharp purple (#7C3AED).
